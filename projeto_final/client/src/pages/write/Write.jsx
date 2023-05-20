@@ -1,3 +1,4 @@
+import React from 'react';
 import { useContext, useState } from "react";
 import "./write.css";
 import axios from "axios";
