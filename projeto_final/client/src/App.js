@@ -1,3 +1,4 @@
+import React from 'react';
 import Home from "./pages/home/Home";
 import TopBar  from "./components/topbar/Topbar";
 import Single from "./pages/single/Single";
